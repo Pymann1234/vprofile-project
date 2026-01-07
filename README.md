@@ -24,3 +24,4 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 # Added this line, for practicing "Git Tags, Semantic Versioning & More..."
+# Adding a few more line for the sake of Practicing 
